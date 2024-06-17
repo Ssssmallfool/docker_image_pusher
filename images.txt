@@ -1,5 +1,6 @@
-nginx
+#nginx
 #支持私库
-bitnami/kubectl
-mysql
-adminer
+#bitnami/kubectl
+#mysql
+#adminer
+elasticsearch:7.6.2
