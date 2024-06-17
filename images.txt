@@ -3,4 +3,5 @@
 #bitnami/kubectl
 #mysql
 #adminer
-elasticsearch:7.6.2
+#elasticsearch:7.6.2
+busybox
