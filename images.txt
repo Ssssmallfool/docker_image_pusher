@@ -5,4 +5,5 @@
 #adminer
 #elasticsearch:7.6.2
 #busybox
-rancher/mirrored-library-busybox:1.36.1
+#rancher/mirrored-library-busybox:1.36.1
+rancher/pause:3.1
