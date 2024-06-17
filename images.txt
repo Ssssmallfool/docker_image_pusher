@@ -1,3 +1,5 @@
 nginx
 #支持私库
 bitnami/kubectl
+mysql
+adminer
