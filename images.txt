@@ -15,4 +15,5 @@
 #docker.io/provectuslabs/kafka-ui:v0.7.1
 #docker.io/library/spark:3.5.0
 #python:3.11.2
-alpine:3.9
+#alpine:3.9
+hrektts/mdbook:0.4.10
